@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import time, json, torch, numpy as np, subprocess
 from pathlib import Path
 from transformers import AutoTokenizer
