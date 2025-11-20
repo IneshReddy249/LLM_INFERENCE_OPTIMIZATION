@@ -175,25 +175,9 @@ trtllm-build \
 - **RAM**: 120GB
 - **CUDA**: 12.x
 
-## Citation
-
-If you use this work, please cite:
-```bibtex
-@misc{llm_inference_optimization,
-  author = {Inesh Reddy},
-  title = {LLM Inference Optimization with TensorRT-LLM},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/IneshReddy249/LLM_INFERENCE_OPTIMIZATION}
-}
-```
-
-## License
-
-MIT License
 
 ## Acknowledgments
 
-- NVIDIA TensorRT-LLM team for the optimization framework
+- NVIDIA TensorRT-LLM  for the optimization framework
 - Qwen team for the base model
 - A100 GPU provided by Shadeform
