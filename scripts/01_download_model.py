@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from pathlib import Path
 
