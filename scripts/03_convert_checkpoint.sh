@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 set -euo pipefail
 
 echo "Converting Qwen2.5-7B to TensorRT-LLM checkpoint format..."
