@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 set -euo pipefail
 
 echo "Building LATENCY-optimized TensorRT engine..."
