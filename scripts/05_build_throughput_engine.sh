@@ -1,4 +1,3 @@
-#!/usr/bin/env bash
 set -euo pipefail
 
 echo "Building THROUGHPUT-optimized TensorRT engine..."
