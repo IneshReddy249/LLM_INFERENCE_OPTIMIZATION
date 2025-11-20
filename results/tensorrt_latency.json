@@ -1,0 +1,17 @@
+{
+  "engine": "tensorrt_latency",
+  "mode": "single_request",
+  "prompt": "Explain paged KV cache in transformers in simple English.",
+  "prompt_tokens": 12,
+  "generated_tokens": 128,
+  "total_tokens": 140,
+  "ttft_ms": 12.97307014465332,
+  "latency_avg_s": 1.3212851667404175,
+  "latency_p50_s": 1.3206496238708496,
+  "latency_p95_s": 1.326906156539917,
+  "latency_p99_s": 1.328258216381073,
+  "tokens_per_sec": 97.83598296848035,
+  "memory_used_gb": 0.007353344,
+  "memory_peak_gb": 0.011639296,
+  "gpu_util_pct": 95.0
+}

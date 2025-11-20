@@ -1,0 +1,15 @@
+{
+  "mode": "batch",
+  "batch_size": 4,
+  "prompt_tokens": 46,
+  "generated_tokens": 513,
+  "ttft_ms": 27.575969696044922,
+  "latency_avg_s": 3.516547360420227,
+  "latency_p50_s": 3.5167728662490845,
+  "latency_p95_s": 3.5273315787315367,
+  "latency_p99_s": 3.5385081219673156,
+  "tokens_per_sec": 147.03473962666115,
+  "memory_used_gb": 0.046790143999999145,
+  "memory_peak_gb": 15.331647488,
+  "gpu_util_pct": 59.0
+}
